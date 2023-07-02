@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Elden Ring API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_filler">Blade built into Malenia\'s prosthetic arm. Through consecration it is resistant to rot.\n\nMalenia\'s war prosthesis symbolized her victories. Some claim to have seen wings when the weapon was raised aloft; wings of fierce determination that have never known defeat.</string>
+    <string name="name_filler">Frenzied something</string>
+    <string name="description_example">Leg Armor</string>
+    <string name="weapons">Weapons</string>
+    <string name="armors">Armors</string>
+</resources>

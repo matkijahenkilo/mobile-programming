@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentShare</string>
+    <string name="ola_sou_android">Olá! Sou Android!</string>
+    <string name="tchau">Tchau!</string>
+</resources>

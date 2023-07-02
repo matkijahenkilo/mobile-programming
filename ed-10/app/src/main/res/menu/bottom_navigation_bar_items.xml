@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/armor"
+        android:icon="@mipmap/ic_armor_foreground"
+        android:title="@string/armors" />
+
+    <item
+        android:id="@+id/weapon"
+        android:icon="@mipmap/ic_weapon_foreground"
+        android:title="@string/weapons" />
+</menu>
